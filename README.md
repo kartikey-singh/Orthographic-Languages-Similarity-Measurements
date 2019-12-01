@@ -3,3 +3,4 @@ To extract similar words between Orthographic languages along with their distanc
 
 For more information read the report and PPT attached with the code.
 
+## Also Implementation of Porter Stemmer is also there.
